@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 38px;
+}
+
+ul .link {
+    font-size: 22px;
+    text-align: center;
+    list-style-type: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.food-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 380px;
+}
